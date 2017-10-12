@@ -76,5 +76,9 @@ header a:hover {
 }
 
 #press img:hover{
-
+	cursor: pointer;
+  -webkit-transition: border 2s ease-out;
+  -moz-transition: border 2s ease-out;
+  -o-transition: border 2s ease-out;
+  transition: border 2s ease-out;
 }
