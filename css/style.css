@@ -29,6 +29,11 @@ h1 {
 	font-family: 'Baskerville.ttc', serif;
 	border-bottom: 1px solid #ccc;
 }
+
+h2 {
+	color: #6f7f7a;
+	
+}
 header a {
     color: #98ada6;
     text-decoration: none;
