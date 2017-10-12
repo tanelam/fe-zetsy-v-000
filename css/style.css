@@ -45,7 +45,7 @@ footer {
 	padding-right: 50px;
 }
 
-a{
+a {
 	text-decoration: none;
 }
 
@@ -66,7 +66,6 @@ header a:hover {
 
 #featured p a {
 	color: #1783bb;
-	text-decoration: none;
 }
 
 #featured p a:hover{
