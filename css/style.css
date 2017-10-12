@@ -39,8 +39,8 @@ p {
 	color: #555;
 }
 
-footer p {
-	align: right;
+footer {
+	text-align: right;
 }
 
 header a {
