@@ -20,12 +20,6 @@ body {
 	padding: 0 45px 20px;
 }
 
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
 /* Write all remaining styles here */
 h1 {
 		font-size: 5em;
