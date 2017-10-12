@@ -76,7 +76,7 @@ header a:hover {
 }
 
 #press img:hover{
-	border:solid 5px #6f7f7a;
+	border: solid 5px #6f7f7a;
 	cursor: pointer;
   -webkit-transition: border 2ms ease-out;
   -moz-transition: border 2ms ease-out;
