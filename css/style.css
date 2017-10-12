@@ -22,3 +22,7 @@ body {
 
 /* Write all remaining styles here */
 
+header a {
+    color: #98ada6;
+    text-decoration: none;
+}
