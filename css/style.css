@@ -37,7 +37,10 @@ h2 {
 p {
 	font-size: 1em;
 	color: #555;
-	
+}
+
+footer {
+	align: right;
 }
 
 header a {
