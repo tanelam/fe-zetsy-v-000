@@ -31,8 +31,9 @@ h1 {
 
 h2 {
 	color: #6f7f7a;
-
+	font-size: 2em;
 }
+
 header a {
     color: #98ada6;
     text-decoration: none;
