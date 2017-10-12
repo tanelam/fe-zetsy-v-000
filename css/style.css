@@ -1,5 +1,8 @@
 /*////////////// Fonts //////////////*/
-
+@font-face {
+	font-family: "Baskerville"
+	src:url(../fonts/Baskerville.tcc);
+}
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
@@ -18,3 +21,4 @@ body {
 }
 
 /* Write all remaining styles here */
+
