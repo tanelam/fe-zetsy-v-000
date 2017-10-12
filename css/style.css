@@ -55,3 +55,7 @@ header a {
 header a:hover{
 	color: #6f7f7a
 }
+
+#featured img{
+	border: solid 10px #98ada6;
+}
