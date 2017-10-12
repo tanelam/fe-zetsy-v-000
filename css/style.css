@@ -26,13 +26,13 @@ h1 {
 	margin: 0 0 5px;
 	font-size: 5em;
 	font-weight: normal;
-	font-family: 'Baskerville.ttc', serif;
+	font-family: 'Baskerville.ttc' serif;
 	border-bottom: 1px solid #ccc;
 }
 
 h2 {
 	color: #6f7f7a;
-	
+
 }
 header a {
     color: #98ada6;
